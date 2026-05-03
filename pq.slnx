@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="../pq_test_accuracy/pq_test_accuracy.vcxproj" Id="c8645aa3-98f1-42ad-95f1-b2fa944fb12b" />
-  <Project Path="pq.vcxproj" Id="53337207-7be2-4b5a-8f28-487c247f0936" />
-</Solution>
