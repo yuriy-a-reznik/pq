@@ -226,3 +226,5 @@ int pq_reconstruct(int m, int n, int idx, float* p)
 
     return PQ_SUCCESS;
 }
+
+/* pq.c -- end of file */
